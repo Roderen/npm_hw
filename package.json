@@ -1,0 +1,29 @@
+{
+  "name": "npm_hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roderen/npm_hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roderen/npm_hw/issues"
+  },
+  "homepage": "https://github.com/Roderen/npm_hw#readme",
+  "dependencies": {
+    "i": "^0.3.7",
+    "lodash": "^4.17.21",
+    "prettier": "^2.8.8"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
